@@ -18,7 +18,7 @@ Variables que se usaron para realizar la prueba:
 **Resultados esperados**
 Descripción de los resultados que se esperan obtener después de realizar la prueba.
 
-**Resultados obtenidos*
+**Resultados obtenidos**
 Descripción de los resultados obtenidos después de realizar la prueba.
 
 **Imágenes(Opcional)**
